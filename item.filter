@@ -228,7 +228,7 @@ ItemDisplay[cm3 TABSK42>0]: %PURPLE%Dru Ele Skiller %GRAY%[%ILVL%]
 ItemDisplay[cm3 TABSK48>0]: %PURPLE%Trap Skiller %GRAY%[%ILVL%]
 
 //All Charms
-ItemDisplay[cm3 MAG !ID ILVL>90]: %PURPLE%»»»%BLUE%  %NAME%  %ORANGE%[%WHITE%%ILVL%%ORANGE%]
+ItemDisplay[cm3 MAG !ID ILVL>90]: %PURPLE%»»»»»%RED%  BAAL %NAME% %PURPLE%«««« %ORANGE%[%WHITE%%ILVL%%ORANGE%]
 ItemDisplay[cm1 MAG !ID]: %GREEN%»»»»%BLUE%  %NAME%  %GRAY%[%ILVL%]
 ItemDisplay[cm2 MAG !ID]: %TAN%%BLUE%%NAME%  %GRAY%[%ILVL%]
 ItemDisplay[cm3 MAG !ID]: %PURPLE%»»»»%BLUE%  %NAME%  %GRAY%[%ILVL%]
